@@ -1,6 +1,6 @@
 {
-    "name": "modelmongo",
-    "version": "0.0.1",
+    "name": "@gvfoster/modelmongo",
+    "version": "0.0.2",
     "description": "simple base model for mongo",
     "author": { "name": "Greg Foster (gvfoster)" },
     "main": "index.js",

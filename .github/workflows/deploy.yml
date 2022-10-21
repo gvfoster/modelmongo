@@ -30,7 +30,7 @@ jobs:
       run: tsc
   
     - name: Copy Files 
-      run: cp package.json ./dist
+      run: cp package.json ./dist/
 
     - name: Publishing Package
       working-directory: ./dist
